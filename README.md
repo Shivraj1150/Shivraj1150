@@ -1,17 +1,17 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-<h1 align="center">Hi 👋, I'm Ganesh Ravindra Patil</h1>
+<h1 align="center">Hi 👋, I'm Dhanraj Ravindra Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
-- 🌱 I’m currently learning **Java Full developer**
+- 🌱 I’m currently on new peoject
 
 - 📫 How to reach me **shivrajpatil21517@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/shivrajpatilop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shivrajpatilop/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/dhanrajpatilop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shivrajpatilop/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/gaYYdV4YMD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gaYYdV4YMD" height="30" width="40" /></a>
 </p>
 
