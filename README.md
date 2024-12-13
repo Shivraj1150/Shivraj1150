@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently on my ecommerce site 
-- 🌱 You can check out my site at  <a href="shopsage.co.in" > ShopSAGE </a>
+- 🌱 You can check out my site at  <a href="https://shopsage.co.in/" > ShopSAGE </a>
 - 📫 How to reach me **shivrajpatil21517@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
